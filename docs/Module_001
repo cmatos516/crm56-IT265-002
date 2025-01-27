@@ -1,43 +1,37 @@
 ## Name: Carolina Matos
 ### Module: 001
 
-<!-- Repeat the below as needed-->
-### Date: [01/DD/2025]
+### Date: [01/27/2025]
 
 #### Goals for this Module
 
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
+[ ] Basic Introductions
+[ ] Studio Brainstorm
+[ ] Brainstormed for card game ideas
 
 
 #### Progress
 - **What I accomplished**:
-  - Summarize completed tasks or progress made.
+  - Introduced myself on Canvas and filled out the Studio Brainstorm template.
+  - Started thinking about ideas for physical card/board game
 
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
+  - N/A
 
 - **Solutions**:
-  - Detail how you addressed challenges or your thought process.
-
+  - N/A
 
 #### Learnings
-- Key insights, techniques, or concepts explored.
+- Learning about what is/makes a game (not just about the features, but also the gameplay)
+- There are games with stunning features that have bad gameplay, and games with simple features that do really well.
 
 
 #### Free Thinking
-- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
-
-
-
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
+- Memory game but with turn-based attacks(?)
+- Lots of inspiration from the Pokemon TCG Pocket app, but where do I draw the line to make sure it's not a ripoff?
   
--->
+
 
 #### Next Steps
-- Tasks or experiments to focus on during the next session.
+- Do some research about turn-based games and memory games.
 
