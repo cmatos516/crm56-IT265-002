@@ -1,0 +1,38 @@
+## Name: Carolina Matos
+### Module: 009
+
+### Date: [04/28/2025]
+
+#### Goals for this Module
+
+[ ] Fix minor mistakes for digital prototype
+[ ] Connect UI menus to game
+[ ]
+
+
+#### Progress
+- **What I accomplished**:
+  - Linked all of the UI stuff (menu, settings, tutorial, etc.) to my game so that everything works
+  - Had the game manager box detect and destroy missed notes if no key is pressed
+
+- **Challenges faced**:
+  - Win screen doesn't pop up after song ends
+  - Needle keeps surpassing the green
+  - Notes very out of tempo
+
+- **Solutions**:
+  - TBD for the first two (Mixr Lab solutions)
+  - Fixed the timing for the notes
+  
+
+#### Learnings
+- New source of code that allows for my empty game manager box to track and destroy missed notes
+
+
+#### Free Thinking
+- In the final stretch, hoping this week is a free work period so I can go to mixr lab to ask for help
+- No sleep for me this week, have to continue to tweak and refine stuff for final presentations
+- 
+
+#### Next Steps
+- Continue to work on project
